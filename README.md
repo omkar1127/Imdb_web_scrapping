@@ -32,7 +32,7 @@ This project demonstrates web scraping techniques to extract data about the **To
 ---
 
 ## 📘 What I Learned
-In this project, I learned how to use **BeautifulSoup** for parsing HTML, how to handle **dynamic content** with Selenium, and how to implement **pagination** to scrape multi-page data. I also practiced working with **implicit waits**, string formatting, and exporting structured datasets using **Pandas**.
+***In this project, I learned how to use **BeautifulSoup** for parsing HTML, how to handle **dynamic content** with Selenium, and how to implement **pagination** to scrape multi-page data. I also practiced working with **implicit waits**, string formatting, and exporting structured datasets using **Pandas**.***
 
 ---
 
